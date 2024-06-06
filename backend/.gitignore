@@ -1,0 +1,6 @@
+.env
+*__pycache__
+*migrations
+.vscode
+*sqlite3
+firebase-account.json
